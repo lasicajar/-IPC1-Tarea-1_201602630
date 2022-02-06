@@ -1,0 +1,24 @@
+body{
+    background-color:gray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+table{
+    background-color: white;
+    text-align: center;
+    border-collapse: collapse;
+}
+thead{
+    background-color:darkred;
+    color: white;
+    font-style: italic;
+    font-size: large;
+}
+
+tr, td{
+    padding: 10px;
+    border: solid 3px;
+    border-color: gray;
+
+}
